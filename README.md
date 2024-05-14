@@ -5,11 +5,11 @@ This repository contains code for analyzing cryptocurrency market data and clust
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [License](#license)
+- Introduction
+- Usage
+- Results
+- Conclusion
+- License
 
 ## Introduction
 
